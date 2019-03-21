@@ -1,0 +1,12 @@
+<suite name="google_page">
+<test name="print_msessge">
+<classes>
+<class name="com.DatadrivenTestNGprogm.TestNGpro1"/>
+</casses>
+</test>
+<test name="facebook_page">
+<classes>
+<class name="com.DatadrivenTestNGprogm.TestNGprogm2"/>
+</classes>
+</test>
+</suite>

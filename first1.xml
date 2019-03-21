@@ -1,0 +1,12 @@
+<suite name="google">
+<test name="first">
+<classes>
+<class name="com.DatadrivenTestNGprogm.TestNGpro1 "/>
+</classes>
+</test>
+<test name="second">
+<classes>
+<class name="com.DatadrivenTestNGprogm.TestNGprogm2"/>
+</classes>
+</test>
+</suite>

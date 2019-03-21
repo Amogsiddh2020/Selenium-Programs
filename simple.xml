@@ -1,0 +1,12 @@
+<suite name="simplefirst">
+<test name="simple_programs">
+<classes>
+<class name="com.DatadrivenTestNGprogm.FirstSimpleprog"/>
+</classes>
+</test>
+<test name="simple_programs1">
+<classes>
+<class name="com.DatadrivenTestNGprogm.Secondsimpleprg"/>
+</classes>
+</test>
+</suite>

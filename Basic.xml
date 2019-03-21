@@ -1,0 +1,8 @@
+<suite name="simple_program">
+<test name="simple_print_statement">
+<classes>
+<class name="com.DatadrivenTestNGprogm.BasicTestNGprintmsg"/>
+<class name="com.DatadrivenTestNGprogm.BasicTestNGprogm1"/>
+</classes>
+</test>
+</suite>

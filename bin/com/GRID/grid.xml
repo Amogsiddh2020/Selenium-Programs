@@ -1,0 +1,14 @@
+<suite name="Newtours" parallel="tests">
+<test name="on chrome">
+<parameter name="Browser" value="chrome"/>
+<classes>
+<class name="com.GRID.Newtours_LoginTest"/>
+</classes>
+</test>
+<test name="on Firefox">
+<parameter name="Browser" value="firefox"/>
+<classes>
+<class name="com.GRID.Newtours_LoginTest"/>
+</classes>
+</test>
+</suite>
